@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+#myInputBuscar {
+  background-image: url('../images/icons/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+/*#tabla-pacientes {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+#tabla-pacientes th, #tabla-pacientes td {
+  text-align: left;
+  padding: 10px;
+}
+
+#tabla-pacientes tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#tabla-pacientes tr.header, #tabla-pacientes tr:hover {
+  background-color: #f1f1f1;
+}*/
