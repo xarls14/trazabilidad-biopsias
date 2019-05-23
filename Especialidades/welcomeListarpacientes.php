@@ -123,18 +123,21 @@
 
       <script type="text/javascript" src="../js/script.js"></script>
 
-      <!--Script para datatables y sus plugins-->
-      <script type="text/javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-      <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-      <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.2/js/dataTables.buttons.min.js"></script>
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js"></script>
-      <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.html5.min.js"></script>
-      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.2/css/buttons.dataTables.min.css">
-      <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.flash.min.js"></script>
-      <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.html5.min.js"></script>
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+      <!--JQuery DataTables plugin-->
+      <link rel="stylesheet" type="text/css" href="../dataTables/bootstrap.css">
+      <script type="text/javascript" src="../dataTables/jquery.dataTables.min.js"></script>
+      <script src="../dataTables/dataTables.bootstrap4.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="../dataTables/dataTables.bootstrap4.min.css">
+      <script type="text/javascript" src="../dataTables/dataTables.buttons.min.js"></script>
+      <script type="text/javascript" src="../dataTables/pdfmake.min.js"></script>
+      <script type="text/javascript" src="../dataTables/vfs_fonts.js"></script>
+      <script type="text/javascript" src="../dataTables/buttons.html5.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="../dataTables/buttons.dataTables.min.css">
+      <script type="text/javascript" src="../dataTables/buttons.flash.min.js"></script>
+      <script type="text/javascript" src="../dataTables/buttons.html5.min.js"></script>
+      <script type="text/javascript" src="../dataTables/jszip.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="../dataTables/responsive.dataTables.min.css">
+      <!--JQuery DataTables plugin-->
     
    </head>
    <body>
