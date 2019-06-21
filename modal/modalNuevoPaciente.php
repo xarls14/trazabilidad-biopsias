@@ -91,7 +91,7 @@
             </div>
             <div class="form-group">
               <label>Cirujano</label>
-              <input type="form-text" class="form-control" id="cirujano" name="cirujano" placeholder="Cirujano que realizo muestra" maxlength="20" onkeypress="return validacionCaracteresCirujano(event)">
+              <input type="form-text" class="form-control" id="cirujano" name="cirujano" placeholder="Cirujano que realizo muestra" maxlength="35" onkeypress="return validacionCaracteresCirujano(event)">
             </div>
            <div class="modal-footer">
           <button type="submit" class="btn btn-primary" onclick="validarFormPaciente()">Agregar</button>
